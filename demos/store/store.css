@@ -359,6 +359,8 @@ body.modal-open { overflow-y: auto; }
 	.flex-control-nav.flex-control-thumbs { opacity: 1; }
 
 	.modal-backdrop { display: block; }
+	
+	.card-img-overlay.bg { background-color: rgba(0, 0, 0, 0.4); }
 
 }
 
